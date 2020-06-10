@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# Ejercicio para practicar el asincronismo de JavaScript con peticiones a una API, utilizando promesas, npm + httprequest
+Utilizaremos lo mencionado ánteriormente para practicar el asincronismo en JavaScript.

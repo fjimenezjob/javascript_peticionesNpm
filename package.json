@@ -1,0 +1,23 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Proyecto para practicar el asincronismo en javascript, utilizando una libreria httprequests de npm",
+  "main": "index.js",
+  "scripts": {
+    "peticiones" : "node js/peticiones.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjimenezJOB/javascript_peticionesNpm.git"
+  },
+  "author": "Fran Jimenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fjimenezJOB/javascript_peticionesNpm/issues"
+  },
+  "homepage": "https://github.com/fjimenezJOB/javascript_peticionesNpm#readme",
+  "dependencies": {
+    "httprequest": "^0.3.0"
+  }
+}
